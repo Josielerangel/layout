@@ -1,0 +1,33 @@
+header{
+    background-image: url("trabalho.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20%; 
+
+}
+
+nav{
+    background-color: beige;
+    font: size 30px;
+}
+    li{
+        display: inline;
+        color: black;
+    }
+
+    nav li:hover{
+        color: white;
+        background-color: blueviolet;
+    }
+
+
+
+section{
+     
+    background-color: bisque;
+
+}
+
+footer{
+    background-color: antiquewhite;
+}
